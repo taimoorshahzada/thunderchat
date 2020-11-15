@@ -1,5 +1,5 @@
 
-const socket = io('https://git.heroku.com/thunderchat-app.git');
+const socket = io('https://thunderchat-app.herokuapp.com/');
 
 
 const form = document.getElementById('send-container');
